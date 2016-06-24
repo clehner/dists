@@ -1,5 +1,5 @@
 PKGS = main/binary-amd64/Packages main/binary-amd64/Packages.gz
-INDEX = InRelease $(PKGS)
+INDEX = InRelease Release.gpg $(PKGS)
 
 all: $(INDEX)
 
@@ -19,6 +19,10 @@ main/binary-amd64/Packages: $(PKG_AMD64) Makefile | packages
 In%: %
 	@rm -vf $@
 	gpg -a -s --clearsign -o $@ $<
+
+%.gpg: %
+	@rm -vf $@
+	gpg -a -b -s -o $@ $<
 
 clean:
 	@rm -vf $(INDEX)
