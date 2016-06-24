@@ -1,28 +1,28 @@
 Architectures: amd64
 Codename: raw
 Components: main
-Date: Mon, 13 Jun 2016 17:30:54 UTC
+Date: Fri, 24 Jun 2016 06:13:11 UTC
 Description: SSBC packages
 Label: SSBC
 Origin: Secure Scuttlebutt Consortium
 Suite: stable
 MD5Sum:
- 11525836a42509eb840f308f8a471545              179 Release
+ fb9d4df16faccc9e49333ca88d74b170              179 Release
  e282dfa1f64c52ad1192d85705bb7bb1              455 main/binary-amd64/Packages
- 5880dee9c560ebd44ec8e056cf0ed678              346 main/binary-amd64/Packages.gz
+ 65dee06388a008e59868bbc0faf7d37e              346 main/binary-amd64/Packages.gz
  0a6c9d53388f66f3902ef5babef7b77b              104 main/binary-amd64/Release
 SHA1:
- f37a31c31d73eaf60af3dbc3255027c76a4e31e4              179 Release
+ 3d29754778d31ea99861ca9e35975e6a1b26deaa              179 Release
  8eb61b7870d875c406c7825649adbf0a94321788              455 main/binary-amd64/Packages
- 7f4cf36324a48e443fe66acd1e2abd6fc05eaef4              346 main/binary-amd64/Packages.gz
+ cedf14f154acf22f712bb65eaf259858081e2bda              346 main/binary-amd64/Packages.gz
  9347a1b90eee253b089c3395767af39d1f9b3d44              104 main/binary-amd64/Release
 SHA256:
- 00099dabe020f3f418699d1051986b7d20392888a69a9a5e26637753b8cdf8bf              179 Release
+ e33fefbc37396bac75fe3fd7fd1e01d958e3dcd3f673f82151b195905e16124b              179 Release
  9c78f8f0ff4361d21f3bdd7acb1a9622b0d19be9342ed664f94fc0e0d23932eb              455 main/binary-amd64/Packages
- 725c07645397e1ab21cb05d17e6ed486d41a291aa7e9fff9c235b22b2be3e6ac              346 main/binary-amd64/Packages.gz
+ 1445f548095d161172eddc7b9e8a5bfadc7d0f1c608a656acf58d0d70343f408              346 main/binary-amd64/Packages.gz
  61c90fb62ee7bbc580ac9f751d644033ab8a422a19eaa309bc8433f60ca44690              104 main/binary-amd64/Release
 SHA512:
- e1efec427342d9ebb2681c8f5cd6aeb0085bb12f88ee0a9ee1342a6bc77a5c91a6761798235dbfcd713a9186cb7464c1a174fe97d004dd100eaa92671ee370e9              179 Release
+ 0ff2eb190ea6bfc78523c96388de5bd29dec3cc5bc6507d1a540ebe760e34ff59989f434e528fdca09915bf700c7de174e875d61c94794399b4256e6447254fb              179 Release
  39d8e593dd4186e1dcdf7efbd9e9d121ddf68050e71666171a173ef6d5b20575ffde06a4a92ac1f3febd12c35918a01a9c601d8ca191794122e929560a804cbc              455 main/binary-amd64/Packages
- 7730b9e48da6f2268fbcc282c96764ff7628c74944632fe004c7971494bcc5b50f8e20da64daf0f19cbe2465a80fa88b502b363634ea01d1d21c70281e1d7bba              346 main/binary-amd64/Packages.gz
+ 8d447333363be55eb6f46e1b1010115bd7eb21bdf69a363657917bae47a85851e216a469e896c7e7c005f2867139c87ed66e359f02f697d3cb3608ea80408ceb              346 main/binary-amd64/Packages.gz
  7213a187b6fe8deb9993400af35d5b5d825402b08180bf294c06946d84011abad540d86ab7b2da738e3d89cf14dcf3137baaa61ac1dc785a458eee499e8f603a              104 main/binary-amd64/Release
