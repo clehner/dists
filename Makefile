@@ -18,11 +18,11 @@ main/binary-amd64/Packages: $(PKG_AMD64) Makefile | packages
 
 In%: %
 	@rm -vf $@
-	gpg -a -s --clearsign -o $@ $<
+	gpg2 -a -s --clearsign -o $@ $<
 
 %.gpg: %
 	@rm -vf $@
-	gpg -a -b -s -o $@ $<
+	gpg2 -a -b -s -o $@ $<
 
 clean:
 	@rm -vf $(INDEX)
