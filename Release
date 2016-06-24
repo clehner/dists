@@ -1,28 +1,28 @@
 Architectures: amd64
-Codename: raw
-Components: stable/main
-Date: Fri, 24 Jun 2016 06:23:28 UTC
+Codename: stable
+Components: main
+Date: Fri, 24 Jun 2016 06:29:00 UTC
 Description: SSBC packages
 Label: SSBC
 Origin: Secure Scuttlebutt Consortium
-Suite: raw
+Suite: stable
 MD5Sum:
- 8e638881a8b0e5029262b6671b994435              183 Release
+ 4c86e364d3db8a844aea6ae1f3ea2905              182 Release
  e282dfa1f64c52ad1192d85705bb7bb1              455 main/binary-amd64/Packages
  aae460a0f9ae5f802eb18c253f08ae26              346 main/binary-amd64/Packages.gz
  0a6c9d53388f66f3902ef5babef7b77b              104 main/binary-amd64/Release
 SHA1:
- 33c420027073a4368105cbcc8f3f478abb83700f              183 Release
+ 21236b6c8450882dd51895b80b8974261aa6d85e              182 Release
  8eb61b7870d875c406c7825649adbf0a94321788              455 main/binary-amd64/Packages
  046375154cccea543c82877075e4980577eb1078              346 main/binary-amd64/Packages.gz
  9347a1b90eee253b089c3395767af39d1f9b3d44              104 main/binary-amd64/Release
 SHA256:
- 8804ce3a74c042e8371927b3a12525fd6766acba3fd493e7b27dba4bc7306db0              183 Release
+ a5d728ef78d7b1e8dea57a30b992d83ebecc69332f7d2fb47b714632a1aeecfc              182 Release
  9c78f8f0ff4361d21f3bdd7acb1a9622b0d19be9342ed664f94fc0e0d23932eb              455 main/binary-amd64/Packages
  4b1649bba95627bd0a9a51d6350912fe565d9db9ad4be4fe0a7d148fffe91734              346 main/binary-amd64/Packages.gz
  61c90fb62ee7bbc580ac9f751d644033ab8a422a19eaa309bc8433f60ca44690              104 main/binary-amd64/Release
 SHA512:
- 8496e2683e34d63e92821518184d71403d4e1417cf89dafb484c47081bc07b1e4e4f7e255fb8c23826b56b99a2e5f2deb916ec98146987de34d1989d9a6d32de              183 Release
+ 6b8faed5087b2280f5a881733470a53b0b270c3e285f1166d4bca254ac0d2a0fd76ea4a82acede9f179141c4d153b7058dd3b773b5c719c1b3a23dca52943a60              182 Release
  39d8e593dd4186e1dcdf7efbd9e9d121ddf68050e71666171a173ef6d5b20575ffde06a4a92ac1f3febd12c35918a01a9c601d8ca191794122e929560a804cbc              455 main/binary-amd64/Packages
  379190d7d4f5d995e81d30c76169f7faeb549142cd66d82334ce47acd4d92b50b50dd876c75090cd348fca61348adeee36cc75930ceead201828969ecd1b2ee4              346 main/binary-amd64/Packages.gz
  7213a187b6fe8deb9993400af35d5b5d825402b08180bf294c06946d84011abad540d86ab7b2da738e3d89cf14dcf3137baaa61ac1dc785a458eee499e8f603a              104 main/binary-amd64/Release
